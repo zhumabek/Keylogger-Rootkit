@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1543764792 source:c:\users\peri\desktop\luismonz\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1543511826 c:\users\peri\desktop\luismonz\keylogger\helper.h
+	<fstream>
+	<ctime>
+	<string>
+	<sstream>
+
+1543671036 c:\users\peri\desktop\luismonz\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1543510774 c:\users\peri\desktop\luismonz\keylogger\base64.h
+	<vector>
+	<string>
+
+1543676519 c:\users\peri\desktop\luismonz\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1543764987 c:\users\peri\desktop\luismonz\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1543515107 c:\users\peri\desktop\luismonz\keylogger\io.h
+	<string>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"Helper.h"
+	"Base64.h"
+
+1543764921 c:\users\peri\desktop\luismonz\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1544456004 source:c:\users\ictlab\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1544456004 c:\users\ictlab\documents\keylogger\helper.h
+	<fstream>
+	<ctime>
+	<string>
+	<sstream>
+
+1544456004 c:\users\ictlab\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1544456004 c:\users\ictlab\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1544456004 c:\users\ictlab\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1544456789 c:\users\ictlab\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1544456004 c:\users\ictlab\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"Helper.h"
+	"Base64.h"
+
+1544456004 c:\users\ictlab\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1544456006 source:c:\users\zhumabek\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1544462650 c:\users\zhumabek\documents\keylogger\helper.h
+	<fstream>
+	<ctime>
+	<string>
+	<sstream>
+
+1544462728 c:\users\zhumabek\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1544462624 c:\users\zhumabek\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1544462568 c:\users\zhumabek\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1544462536 c:\users\zhumabek\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1544462676 c:\users\zhumabek\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"Helper.h"
+	"Base64.h"
+
+1544462716 c:\users\zhumabek\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<windows.h>
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
