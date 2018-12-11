@@ -1,0 +1,20 @@
+
+## Software design
+Keylogger malware application designed in c++.  C++ windows app traces all the keyboard inputs from the user and record 
+ it into a text file. The app sends the text files to a gmail account. We  used Windows Powershell to do it. 
+
+
+## User story 
+
+Scenario: Parents supervise their children
+Given that we are parents
+When we install the program to children computers
+Then we must track the users’ activities 
+Scenario: Monitor what employees are doing
+Given that I am employer
+When I install the program to the employees’ computers
+Then  I can observe employees computer activities
+Scenario: Security reasons
+Given that I am employee 
+When I am using keylogger program
+Then I track the input of key words and phrases associated with commercial information which could damage the company 
